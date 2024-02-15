@@ -1,10 +1,10 @@
 body {
-    background-color: #0f0f0f;
+    background-color: #313131;
 }
 
-h1 {color: cornsilk; text-align: center; margin-bottom: 80px;}
-h2 {color: aliceblue; text-align: center;}
-p {color:azure; text-align: center;}
+h1 {color: rgb(243, 239, 225); text-align: center; margin-bottom: 80px;}
+h2 {color: rgb(246, 251, 255); text-align: center; margin-top: 100px;}
+p {color:rgb(190, 247, 247); text-align: center; margin-top: 20px;}
 
 
 ul {
@@ -12,7 +12,7 @@ ul {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #252525;
+    background-color: #1d1d1dbd;
   }
   
   li {
@@ -28,7 +28,7 @@ ul {
   }
   
   li a:hover {
-    background-color: #000000;
+    background-color: #2e2e2e8c;
   }
 
 .links {
@@ -41,9 +41,11 @@ text-align: center;
 
 .links a p {
   text-align: center;
-  color:chocolate;
+  color:#789ce9e7;
+  font-weight: bold;
 }
 
+
 hr {
-  border: 1px dashed grey;
+  border: 1px dashed rgba(128, 128, 128, 0.281);
 }
